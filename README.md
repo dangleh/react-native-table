@@ -1,11 +1,5 @@
 <h1 align="center">React Native Reanimated Table</h1>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/react-native-reanimated-table"><img src="https://badge.fury.io/js/react-native-reanimated-table.svg" /></a>
-  <a href="https://www.npmjs.com/package/react-native-reanimated-table"><img src="https://img.shields.io/badge/platform-Android%20%7C%20iOS-yellow.svg" /></a>
-  <a href="https://www.npmjs.com/package/react-native-reanimated-table"><img src="https://img.shields.io/npm/dm/react-native-reanimated-table.svg?colorB=orange" /></a>
-</p>
-
 This is a table component for react native.
 
 - [Installation](#installation)
